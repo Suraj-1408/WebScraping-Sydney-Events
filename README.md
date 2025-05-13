@@ -19,6 +19,10 @@ This is a simple web application that displays detailed information such as even
 
 ## Preview of Application.
 1) HomePage
+![Screenshot](assets/homepage.png)
+
+2) All events
+![Screenshot](assets/events.png)
  
 
 ## Setup Instructions to run Locally
