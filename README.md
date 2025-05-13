@@ -23,6 +23,14 @@ This is a simple web application that displays detailed information such as even
 
 2) All events
 ![Screenshot](assets/events.png)
+
+3) Email Input to get Ticket
+![Screenshot](assets/emailInput.png)
+
+4) On Submit - redirecting to original website
+![Screenshot](assets/redirecting_to_orginal_site.png)
+
+
  
 
 ## Setup Instructions to run Locally
